@@ -1,4 +1,5 @@
 type Nullable<T> = T | null;
+
 type MyObject = {
     type: Nullable<string>;
     value: Nullable<number>;
@@ -17,12 +18,14 @@ let obj: MyObject = {
     value: 42,
 };
 
+printObj(obj);
+
 function printObj(obj: MyObject): void {
     console.log(obj.type);
     console.log(obj.value);
 }
 
-printObj(obj);
+
 // T is only number
 function min<T extends number>(a: T, b: T): T
 {
