@@ -1,0 +1,1 @@
+"use strict";(()=>{document.addEventListener("DOMContentLoaded",n=>{document.addEventListener("keydown",function(e){console.log(`key: ${e.key}`),console.log(`code: ${e.code}`)}),document.addEventListener("keyup",function(e){console.log("keyup")})});})();

@@ -1,0 +1,72 @@
+.container {
+    width: 300px;
+    height: 160px;
+    border: 1rem solid aqua;
+    background: darkmagenta;
+}
+
+.container > p {
+    margin: 0;
+    background: yellow;
+    padding: 1rem;
+}
+
+#d1 {
+    width: 200px;
+    height: 80px;
+    background-color: deeppink;
+}
+
+#d2 {
+    background-color: darkgoldenrod;
+    height: 50px;
+}
+
+#d3 {
+    background-color: green;
+
+    height: 50px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+#square {
+    width: 100px;
+    height: 100px;
+    background: #ff8300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inner-square {
+    padding: 20px;
+    height: 50px;
+    width: 50px;
+    background-color: #76d9cb;
+}
+
+#outer-square {
+    width: 100px;
+    height: 100px;
+    background: blueviolet;
+}
+
+#big-container {
+    width: 800px;
+    height: 600px;
+    margin: 5rem;
+    display: none; /* delete */
+    border: 0.5rem solid yellow;
+}
+
+#egg {
+    width: 25px;
+    height: 75px;
+    background: yellow;
+    border-radius: 66%;
+    position: absolute;
+}
