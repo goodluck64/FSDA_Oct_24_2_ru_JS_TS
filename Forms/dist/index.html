@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms</title>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+<form id="login-form" action="http://localhost:9090/form-test/" method="post">
+    <label>
+        <span>
+            Email
+        </span>
+        <input id="email" name="email" type="text"/>
+    </label>
+    <label>
+        <span>
+            Password
+        </span>
+        <input id="password" name="password" type="text"/>
+    </label>
+
+    <label>
+        <span>
+            Login Type
+        </span>
+        <label>
+            <span>
+                admin
+            </span>
+            <input type="radio" value="admin" name="type"/>
+        </label>
+        <label>
+            <span>
+                guest
+            </span>
+            <input type="radio" value="guest" name="type"/>
+        </label>
+        <label>
+            <span>
+                Remember me
+            </span>
+            <input type="checkbox" name="remember"/>
+        </label>
+
+
+    </label>
+
+    <input type="submit" value="Login"/>
+    <div id="validation-output"></div>
+</form>
+
+<!-- localhost/?login=test -->
+
+</body>
+</html>

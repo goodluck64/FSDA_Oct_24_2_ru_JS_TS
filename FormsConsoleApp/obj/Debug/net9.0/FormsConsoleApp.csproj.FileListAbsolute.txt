@@ -1,0 +1,15 @@
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\bin\Debug\net9.0\FormsConsoleApp.exe
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\bin\Debug\net9.0\FormsConsoleApp.deps.json
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\bin\Debug\net9.0\FormsConsoleApp.runtimeconfig.json
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\bin\Debug\net9.0\FormsConsoleApp.dll
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\bin\Debug\net9.0\FormsConsoleApp.pdb
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\FormsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\FormsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\FormsConsoleApp.AssemblyInfo.cs
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\FormsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\FormsConsoleApp.sourcelink.json
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\FormsConsoleApp.dll
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\refint\FormsConsoleApp.dll
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\FormsConsoleApp.pdb
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\FormsConsoleApp.genruntimeconfig.cache
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\FormsConsoleApp\obj\Debug\net9.0\ref\FormsConsoleApp.dll

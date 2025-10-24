@@ -1,0 +1,15 @@
+{
+  "name": "Forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "esbuild --bundle src/main.ts --minify --loader:.png=file src/index.html src/mainpage.html --loader:.html=copy --outdir=dist",
+    "start": "npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}

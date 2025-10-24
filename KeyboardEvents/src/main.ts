@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
         if (event.key != 'q') {
             return false;
         }
-
+        event.
         console.log(`key: ${event.key}`);
         console.log(`code: ${event.code}`);
         //console.log(`code (which): ${event.key.charCodeAt(0)}`);
