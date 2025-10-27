@@ -1,0 +1,15 @@
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\bin\Debug\net9.0\CookieTestServer.exe
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\bin\Debug\net9.0\CookieTestServer.deps.json
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\bin\Debug\net9.0\CookieTestServer.runtimeconfig.json
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\bin\Debug\net9.0\CookieTestServer.dll
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\bin\Debug\net9.0\CookieTestServer.pdb
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\CookieTestServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\CookieTestServer.AssemblyInfoInputs.cache
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\CookieTestServer.AssemblyInfo.cs
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\CookieTestServer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\CookieTestServer.sourcelink.json
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\CookieTestServer.dll
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\refint\CookieTestServer.dll
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\CookieTestServer.pdb
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\CookieTestServer.genruntimeconfig.cache
+C:\Users\Alex\WebstormProjects\FSDA_Oct_24_2_ru_JS_TS\CookieTestServer\obj\Debug\net9.0\ref\CookieTestServer.dll

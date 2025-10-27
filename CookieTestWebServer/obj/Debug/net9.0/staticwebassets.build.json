@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D76LDnyrO9v1uap57ZHGL2PmouhN2sSzjfaPyu97I2s=",
+  "Source": "CookieTestWebServer",
+  "BasePath": "_content/CookieTestWebServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
