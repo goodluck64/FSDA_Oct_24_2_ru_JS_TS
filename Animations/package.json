@@ -1,0 +1,17 @@
+{
+  "name": "Animations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "esbuild --bundle src/main.ts --minify --loader:.png=file src/index.html --loader:.html=copy --outdir=dist"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.5.33",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}

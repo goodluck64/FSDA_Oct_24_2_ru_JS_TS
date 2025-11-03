@@ -1,0 +1,1 @@
+"use strict";(()=>{(async function(){let e=new Promise((r,t)=>{let o=n(0,2);console.log(o),setTimeout(o!==1?()=>{r("Done")}:()=>{t("Error")},1e3)});try{let r=await e;alert(`Success: ${r}`)}catch(r){alert(`Failure: ${r}`)}})();function n(e,r){return Math.floor(Math.random()*(r-e)+e)}})();
